@@ -42,7 +42,7 @@ Socioeconomic Impact: Examines lunch type, parental education, and their effect 
 
 Test Preparation Analysis: Evaluates the effectiveness of test prep courses.
 
-Next Steps for Further Analysis
+Next Steps for Further Analysis:
 
 Investigate ethnic disparities in test prep participation and performance.
 
@@ -50,17 +50,6 @@ Analyze gender & parental education interactions for deeper insights.
 
 Explore additional socioeconomic indicators, such as school funding or parental occupation.
 
-How to Use
-
-Clone the repository:
-
-git clone https://github.com/yourusername/exam-performance-dashboard.git
-
-Open the Power BI (.pbix) file to explore the dashboard.
-
-Use the provided dataset for further analysis.
-
-Modify or extend the project as needed.
 
 Conclusion
 
